@@ -9,8 +9,9 @@ html{
     scroll-behavior:smooth ;
 }
 body{ 
-    background: #bdb6db;
+    background: #04010f;
     color: #3b24a1;
+    margin: 10px;
 }
 .topnav{
     padding: 5px;
@@ -42,16 +43,20 @@ nav ul li a{
 
 /*----------About----------*/
 #about{
-    padding: 10px;
+    padding: 10px 0;
     color:rgb(11, 21, 29)
 }
 .row {
     display: flex;
     justify-content: space-between;
+    flex flex-wrap: wrap;
     
 }
 .about-col-1{
     flex-basis: 30;
+}
+div h2{
+    justify-content: center;
 }
 
 /*----------Home Page----------*/
@@ -77,13 +82,19 @@ div p a{
 }
 .flex-container {
     display: flex;
-    background-color: #2214db;
+    background-color: none;
   }
 .flex-container div{
-    background-color: antiquewhite;
+    background-color: b6db;
     margin: 10px;
-    padding: 20px;
+    padding: 15px;
     font-size: 30px;
+}
+.Me3{
+    border-radius: 15px;
+}
+.Me4{
+    border-radius: 15px;
 }
 
 /*----------Contact Me----------*/
@@ -93,8 +104,14 @@ div p a{
 }
 div h2{
     color: rgb(247, 252, 253);
+
 }
 div p a{ 
+    color: #2214db;
+    text-decoration: none;
+    font-size: 17px;
+}
+div p{
     color: #2214db;
     text-decoration: none;
     font-size: 17px;
