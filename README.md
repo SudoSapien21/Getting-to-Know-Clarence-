@@ -18,4 +18,3 @@ Murach's HTML5 and CSS3 book
 
 
 
-image.png
