@@ -16,5 +16,6 @@ WS3schools.com
 Youtube.com
 Murach's HTML5 and CSS3 book 
 
-![./assests/images/Screenshot.jpg]
 
+
+![image](https://github.com/SudoSapien21/Getting-to-Know-Clarence-/assets/129623542/9bbbbdbf-0c2a-4b82-844f-3ad885a87138)
